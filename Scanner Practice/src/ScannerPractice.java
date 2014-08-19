@@ -4,7 +4,7 @@ public class ScannerPractice {
 
 	public static void main(String[] args) {
 		
-	int favoriteJerseyNumber;
+	int favoriteJerseyNumber1;
 	double userChoice;
 	
 	Scanner BigBoy = new Scanner (System.in);	
